@@ -12,8 +12,3 @@ For this project, I used : **npm v4.6.1**, **pip v18.0**, **python v3.6.2**
 ### Running
 1. Go to the root directory and start the server with `python run.py`
 2. If all is working correctly, you will be given an address http://127.0.0.1:5000/ which you can open in your favorite browser and see our application running.
-
-# ParkingApp
-# ParkingApp
-# ParkingApp
-# ParkingApp
